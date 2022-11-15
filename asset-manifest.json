@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlexanderPM.github.io/static/css/main.964fdded.css",
+    "main.js": "/AlexanderPM.github.io/static/js/main.f4046d27.js",
+    "index.html": "/AlexanderPM.github.io/index.html",
+    "main.964fdded.css.map": "/AlexanderPM.github.io/static/css/main.964fdded.css.map",
+    "main.f4046d27.js.map": "/AlexanderPM.github.io/static/js/main.f4046d27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.f4046d27.js"
+  ]
+}
